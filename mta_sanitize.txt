@@ -1,0 +1,37 @@
+# mta_sanitize v0.1
+# Sanitize text for URLs
+# Morgan Aldridge
+# http://www.makkintosshu.com/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+YTo5OntzOjQ6Im5hbWUiO3M6MTI6Im10YV9zYW5pdGl6ZSI7czo3OiJ2ZXJzaW9uIjtzOjM6
+IjAuMSI7czo2OiJhdXRob3IiO3M6MTU6Ik1vcmdhbiBBbGRyaWRnZSI7czoxMDoiYXV0aG9y
+X3VyaSI7czoyODoiaHR0cDovL3d3dy5tYWtraW50b3NzaHUuY29tLyI7czoxMToiZGVzY3Jp
+cHRpb24iO3M6MjI6IlNhbml0aXplIHRleHQgZm9yIFVSTHMiO3M6NDoidHlwZSI7aTowO3M6
+NDoiaGVscCI7czo5MDY6Igk8cD4KVGhpcyBwbHVnLWluIGltcGxlbWVudHMgYSBjb250YWlu
+ZXIgdGFnICg8Y29kZT5tdGFfc2FuaXRpemU8L2NvZGU+KSB3aGljaCB3aWxsICYjODIyMDtz
+YW5pdGl6ZSYjODIyMTsgYW55IHRleHQgY29udGFpbmVkIGJldHdlZW4gdGhlIG9wZW5pbmcg
+JiMzODsgY2xvc2luZyB0YWcgZm9yIHVzZSBpbiBhIFVSTC4gVGhpcyBpcyBhIHdyYXBwZXIg
+YXJvdW5kIHRoZSBidWlsdC1pbiA8Y29kZT5zYW5pdGl6ZUZvclVybCgpPC9jb2RlPiBmdW5j
+dGlvbiBhbmQgd2lsbCBhbHNvIHBhcnNlIG90aGVyIHRleHRwYXR0ZXJuIHRhZ3MgdGhhdCBp
+dCBjb250YWlucy48L3A+Cgk8aDM+U3ludGF4PC9oMz4KCTxwPlRoZSA8Y29kZT5tdGFfc2Fu
+aXRpemU8L2NvZGU+IHRhZyBoYXMgdGhlIGZvbGxvd2luZyBzeW50YWN0aWMgc3RydWN0dXJl
+OjwvcD4KCTxwPjxjb2RlPiZsdDt0eHA6bXRhX3Nhbml0aXplJmd0O1NvbWUgVGV4dCZsdDsv
+bXRhX3Nhbml0aXplJmd0OzwvY29kZT48L3A+Cgk8aDM+QXR0cmlidXRlczwvaDM+Cgk8cD5U
+aGUgPGNvZGU+bXRhX3Nhbml0aXplPC9jb2RlPiB0YWcgd2lsbCBhY2NlcHQgdGhlIGZvbGxv
+d2luZyBhdHRyaWJ1dGUgKG5vdGU6IGF0dHJpYnV0ZXMgYXJlIDxzdHJvbmc+Y2FzZSBzZW5z
+aXRpdmU8L3N0cm9uZz4pOjwvcD4KCTxwPjxjb2RlPnRvbG93ZXI9ImludGVnZXIiPC9jb2Rl
+PjwvcD4KCTxwPldoZW4gc2V0IHRvIDxzdHJvbmc+MTwvc3Ryb25nPiB0aGUgc2FuaXRpemVk
+IHRleHQgd2lsbCBiZSBjb252ZXJ0ZWQgdG8gbG93ZXJjYXNlLiBBdmFpbGFibGUgdmFsdWVz
+OiA8c3Ryb25nPjA8L3N0cm9uZz4gb3IgPHN0cm9uZz4xPC9zdHJvbmc+IChkZWZhdWx0KS48
+L3A+Cgk8aDM+Q2hhbmdlIExvZzwvaDM+Cgk8cD52MC4xIEluaXRpYWwgcmVsZWFzZS48L3A+
+CgoKICI7czo0OiJjb2RlIjtzOjE4MDoiCgpmdW5jdGlvbiBtdGFfc2FuaXRpemUoJGF0dHMs
+ICR0aGluZykKewoJZXh0cmFjdChsQXR0cyhhcnJheSgKCQkndG9sb3dlcicgPT4gMSwKCSks
+JGF0dHMpKTsKCgkkb3V0ID0gc2FuaXRpemVGb3JVcmwocGFyc2UoJHRoaW5nKSk7CgoJcmV0
+dXJuICR0b2xvd2VyID8gc3RydG9sb3dlcigkb3V0KSA6ICRvdXQ7Cn0KIjtzOjM6Im1kNSI7
+czozMjoiNTU3OTAxOTk4YTZiMDliZGI1MDA2MmZlMWRiMDI3YTIiO30=
